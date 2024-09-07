@@ -1,2 +1,2 @@
 This is a sample file
-adding a new line to the sample.txt file
+root:x:0:0:root:/root:/bin/bash
